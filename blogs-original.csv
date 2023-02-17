@@ -26,6 +26,8 @@ vzard's blog, https://vzardlloo.github.io, https://vzardlloo.github.io/atom.xml,
 后端技术杂谈, https://rowkey.cn, https://rowkey.cn/atom.xml, 编程
 zhonger 前端开发者，喜爱运维管理, https://blog.lui8.cn, https://blog.lui8.cn/feed.xml, 编程
 依云's Blog, https://blog.lilydjwg.me, https://blog.lilydjwg.me/posts.rss, 编程
+zgh's Blog, https://hundren.github.io, https://hundren.github.io/atom.xml, 编程; 前端; 游戏; 量子物理
+朽儿, https://xiuer.medium.com, https://xiuer.medium.com/feed, 编程; 前端; 游戏
 INTJer, https://arminli.com, https://arminli.com/rss.xml, 编程
 思圆笔记, https://hintsnet.com/, https://hintsnet.com/pimgeek/feed/, 编程
 吕大卫的官方网站, https://lvdawei.com, , 编程
@@ -775,7 +777,7 @@ inDev. Journal, https://www.frankindev.com/, https://www.frankindev.com/feed.xml
 conge, https://conge.github.io/, https://conge.github.io/feed.xml, 生活; 跑步; 阅读
 天哥de博客, https://mctg.ink, https://mctg.ink/index.php/feed, 日常
 zd小达's blog, https://blog.zhangda.xyz/, https://blog.zhangda.xyz/feed/, 技术; 折腾; 教程
-像清水一般清澈透明, https://sumsec.me/, , 技术; 安全; 生活; Java安全
+像清水一般清澈透明, https://sumsec.me/, https://sumsec.me/resources/atom.xml, 技术; 安全; 生活; Java安全
 ROYWANG, https://roy.wang/, https://roy.wang/feed/, 技术; 生活; 日记
 Vulkey_Chen's Blog, https://gh0st.cn/, https://gh0st.cn/feed.xml, 安全; 编程
 zjun's blog, https://blog.zjun.info/, https://blog.zjun.info/rss.xml, 安全; 笔记
@@ -1013,7 +1015,7 @@ Jing Blog, https://jingine.com/, https://jingine.com/feed/, 技术; 海外; 随�
 HugeTerry|Den, http://hugeterry.cn/, http://hugeterry.cn/feed, 技术; 生活; 调酒
 爱喝水的木子, http://lideshan.cn, , 编程; 软件
 明明如月的博客, https://lmmsoft.github.io/, https://lmmsoft.github.io/feed.atom, 编程; 旅行; 运动
-我的成长实证, https://www.huanxi.pub, , 学习; 生活; 成长
+我的成长实证, https://www.xiexie.me, , 学习; 生活; 成长
 象帝浮华生, https://www.ahianzhang.com/, https://www.ahianzhang.com/index.xml, 技术; 架构
 类库大魔王的挖井日记, https://blog.ismisv.com/, https://blog.ismisv.com/feed.xml, 技术; 随笔; 生活; 日常
 u3blog, https://u3blog.xyz/, https://u3blog.xyz/feed.php, 编程; Android
@@ -1053,3 +1055,28 @@ Max的技术札记, https://www.immaxfang.com/, https://www.immaxfang.com/atom.x
 Fernweh, https://blog.wohin.me, https://blog.wohin.me/index.xml, 信息安全; 诗歌; 随笔
 Suiko的自留地, https://suiko.dev/, https://suiko.dev/rss/feed.xml, 编程; 前端
 杜老师说, https://dusays.com/, https://dusays.com/atom.xml, 运维，数码，资源
+世界观察日记, https://fiftysixtimes7.github.io/MyWorldObservationJournal/, https://fiftysixtimes7.github.io/MyWorldObservationJournal/feeds/all.atom.xml, 随笔; 思考; 哲学; 文学; 生活
+夕泥, https://www.xinies.cn/, , 编程; 前端; WEB; 全栈
+plus studio, https://studyinglover.com/, https://studyinglover.com/atom.xml, 编程; 机器学习; 计算机视觉; 元宇宙
+Wayne的技术博客, https://blog.michealwayne.cn/, https://blog.michealwayne.cn/atom.xml, 前端; 编程; 软件工程; 项目管理; 读书笔记
+时光的时光轴, https://outti.me, https://outti.me/rss.xml, 编程; 折腾; 生活; 分享; 记录
+whtli的个人博客, http://hexo.whtli.cn/, http://hexo.whtli.cn/atom.xml, 编程; 后端; 笔记
+文明, http://home.cse.ust.hk/~zjiangaj/blog/, , 随笔; 音乐; 语言; 技术
+老鱼的博客, https://hgoldfish.com/, https://hgoldfish.com/blogs/rss/articles.xml, 编程; Python; Qt
+蒲小花的博客, https://www.jackpu.com/, https://www.jackpu.com/rss/, 前端; 生活
+growdu, https://growdu.gitee.io/dblog/, , 编程
+ccagml的博客, http://www.ccagml.com, http://www.ccagml.com/?feed=rss2, 编程
+泠泫凝的异次元空间, https://lxnchan.cn/, https://lxnchan.cn/atom.xml, 运维; 后端
+Wrong.wang, https://wrong.wang/blog/, , 编程
+Colorful - 一枚数字艺术家的自留地, https://xiaoa.name/, https://xiaoa.name/feed.xml, 编程; 前端; Javascript; Node.js; Rust; Java; Python; 读书笔记
+Sekyoro的博客小屋, https://www.sekyoro.top, https://www.sekyoro.top/atom.xml, 编程; 学习笔记; 机器学习; 工具使用; 软件工程
+柴郡猫, https://www.cheshirex.com, https://www.cheshirex.com/feed, 生活; 分享; 记录
+夏荷博客, https://blog.helim.net/, https://blog.helim.net/index.php/feed/, 生活; 学习; 思考; 编程; 诗歌
+obaby@mars, http://nai.dog, https://h4ck.org.cn/feed/, 生活; 编程; 硬件; 人工智能
+aikenh, https://aikenh.cn/, https://aikenh.cn/atom.xml, 生活; 学习; 编程; 技术
+醉里博客, https://202271.xyz/, https://202271.xyz/atom.xml, 生活; 学习; 编程; 技术
+嵌入式艺术, https://www.dongni.work/, https://www.dongni.work/, 嵌入式; Linux驱动/应用开发; 生活; 个人成长
+RBA的技术分享, https://firfor.cn, https://www.firfor.cn/rss.xml, JAVA; JVM; HotSpot; 虚拟机; 编程; 学习; 思考
+鱼贩猫窝, https://www.nekow.cn/, https://www.nekow.cn/index.php/feed/, 生活; 个人成长; 折腾; 学习; 游戏; 写作
+LearnData 开源笔记, https://newzone.top/, https://newzone.top/rss.xml, 笔记; 个人成长; 编程
+九仞之行, https://styunlen.cn/, https://styunlen.cn/feed, 编程; 技术; 人文; 音乐; 笔记; 生活日常
